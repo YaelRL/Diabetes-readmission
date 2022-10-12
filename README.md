@@ -4,6 +4,7 @@ The data consists of 10,000 labeled inpatients stays. This is an imbalanced data
 Work process included data reading and preparation, train-test split, exploratory data analysis, pre-processing pipelines, model fitting and evaluation.
 
 Abstract: 
+
 Aim: Readmission of patients within 30 days of discharge is a measure of healthcare quality and expenditure. This study’s goal was to build a prediction model for readmission within 30 days for patients with diabetes. 
 
 Methods: the data set consisted of 70,000 labeled admissions of patients with diabetes. Data was cleaned, split to train and test sets and studied in exploratory data analysis. The data was processed, and machine-learning models were fitted and evaluated using stratified cross-validation. 
